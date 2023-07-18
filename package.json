@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "membuat wadah project nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wisnu" : "node index.js"
+    },
+  "author": "nodejs wadah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
